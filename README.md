@@ -1,4 +1,4 @@
-![github profile](https://github.com/user-attachments/assets/f9b5a2fa-c33f-4e73-aa17-a0fbcc831139)
+![profile banner-sized2](https://github.com/user-attachments/assets/372e4746-3d42-46c6-9a37-f1dee64bce9d)
 # Moses Annan
 
 ## Feels great to have you see my profile😊
