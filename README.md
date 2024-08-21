@@ -38,7 +38,8 @@ I am `IoT` and `Full-Stack` developer. I hold a BSc. degree in Computer Engineer
 
 📫 Say hello 👋
 [Email](mosesakisupi@gmail.com)
-[LinkedIn](https://linkedin.com/in/moses-annan)
+
+😻[LinkedIn](https://linkedin.com/in/moses-annan)
 [WhatsApp](https://wa.me/233541606807?text=Hello,%20this%20is%20Moses.%20How%20are%20you%20today?)
 
 
