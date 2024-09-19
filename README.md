@@ -13,11 +13,14 @@ I am `IoT` and `Full-Stack` developer. I hold a BSc. degree in Computer Engineer
 
 💞️ I am looking to colloborate on any project, hackathons or development.
 
-# My Tech Stack
+# Tech Stack
 * `Python`
 * `C++`
 * `JavaScript`
-* `React (Vite)`
+* `TypeScript`
+* `React`
+* `Next.js`
+* `React native`
 * `Django`
 * `Tailwindcss`
 * `Bootstrap`
